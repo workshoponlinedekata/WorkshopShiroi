@@ -573,32 +573,6 @@ blockquote {
 .mbr-form .input-group-btn button[type="submit"]:hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
 }
-.form2 .form-control {
-  border-top-left-radius: 100px;
-  border-bottom-left-radius: 100px;
-}
-.form2 .input-group-btn a.btn {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form2 .input-group-btn button[type="submit"] {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form3 input[type="email"] {
-  border-radius: 100px !important;
-}
-@media (max-width: 349px) {
-  .form2 input[type="email"] {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn a.btn {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn button[type="submit"] {
-    border-radius: 100px !important;
-  }
-}
 @media (max-width: 767px) {
   .btn {
     font-size: .75rem !important;
@@ -926,7 +900,7 @@ section.lazy-placeholder:after {
 .cid-rZr2Dj1DVd {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/whatsapp-image-2020-08-26-at-08.37.53-2.jpeg");
+  background-image: url("../../../assets/images/whatsapp-image-2020-08-24-at-10.22.05-2.jpeg");
 }
 .cid-rZr2Dj1DVd .mbr-section-subtitle {
   color: #232323;
